@@ -1,2 +1,2 @@
 # React
-React Course
+React Course 1
